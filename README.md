@@ -6,9 +6,17 @@ A simple Android application built using **Kotlin** that demonstrates how to sho
 
 ## 📱 Screenshots
 
-| Initial Screen | Button Clicked | Toast Displayed |
-|----------------|----------------|-----------------|
-| ![Screenshot](screenshots/screen1.png) | ![Screenshot](screenshots/screen2.png) | ![Screenshot](screenshots/screen3.png) |
+Initial Screen:
+
+<img width="334" alt="Screenshot 2025-03-28 at 11 36 37 AM" src="https://github.com/user-attachments/assets/d826495c-c84b-4ba8-8863-8a8b264d0415" />
+
+---
+
+Toast Message Display Screen:
+
+<img width="334" alt="Screenshot 2025-03-28 at 11 36 37 AM" src="https://github.com/user-attachments/assets/1ef7ead7-2e84-43a7-8331-049a2e520c99" />
+
+
 
 ---
 
